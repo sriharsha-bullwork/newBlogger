@@ -188,7 +188,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - _pages
+  # - _pages
 
 keep_files:
   - .git
